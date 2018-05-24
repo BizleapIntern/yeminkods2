@@ -1,0 +1,9 @@
+# OS generated files #
+######################
+.DS_Store
+.classpath
+.project
+.settings/
+RemoteSystemsTempFiles/
+.metadata/
+.recommenders/

@@ -1,0 +1,8 @@
+PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,DEPT01
+PER02,Elsa,27,Senior Programmer,400000,elsa@gmail.com,06532789450,DEPT01
+PER03,Jastin,26,Senior Programmer,400000,jastin@gmail.com,06976631855,DEPT01
+PER04,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,DEPT02
+PER05,Irene ,24,Programmer,300000,irene@gmail.com,01796523458,DEPT02
+PER06,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,DEPT03
+PER07,Krystal Jung,24,Software Engineer,500000,krystaljung@gmail.com,0785599312,DEPT03
+PER08,Elena,25,Web Developer,300000,elena@gmail.com,0189566674,DEPT03

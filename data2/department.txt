@@ -1,0 +1,9 @@
+DEPT01,Sales And Marketing,sale@gmail.com,09468823598,COMP01
+DEPT02,Engineering,engineering@gmail.com,04698853219,COMP01
+DEPT03,Human Resource,humanresource@gmail.com,0469686557,COMP01
+ DEPT05,Engineering,engineering@gmail.com,06325589940,COMP02
+DEPT06,Sales and Marketing,sam@gmail.com,04698853219,COMP02
+DEPT04,Human Resource,hr@gmail.com,03157745698,COMP02
+DEPT07,Engineering,engineering@gmail.com,031222598740,COMP03
+DEPT08,Sales And Marketing,sale@gmail.com,025688736365,COMP03
+DEPT09,Purchasing,purchasinging@gmail.com,04698853219,COMP03

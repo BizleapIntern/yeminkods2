@@ -1,0 +1,3 @@
+COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
